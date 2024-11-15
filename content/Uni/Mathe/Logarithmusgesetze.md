@@ -1,0 +1,1 @@
+![[logarithmusgesetze.png]]

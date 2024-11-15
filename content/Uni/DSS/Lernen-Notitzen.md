@@ -1,0 +1,5 @@
+- SS21, Aufgabe 1:
+	- eigene: $2\delta(t)+\frac{1}{3}\delta(t-T)-\delta(t-4T)$
+	- Warum alle Verschiebungen +2 in Lösung ?
+- SS22, Faltung, 1.2)
+	- Wie funktioniert graphische Faltung Hierbei

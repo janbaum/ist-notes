@@ -1,0 +1,2 @@
+- Vorlesung weiter gucken, nachdem mindestens Kapitel 2 gehört! [[Kleinsignalschaltbild#^b724e5]]
+- 
