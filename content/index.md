@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Moje
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## DSS
+- [[Uni/DSS/Allgemein/Inhaltsangabe|Inhaltsangabe]]
+
+## Kommunikationsnetze
+- [[Uni/Kommunikationsnetze/Inhaltsangabe|Inhaltsangabe]]
+
+## Nachrichtentechnik
+- [[Uni/Nachrichtentechnik/Inhaltsangabe|Inhaltsangabe]]
